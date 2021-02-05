@@ -14,7 +14,7 @@ To run the application in dev mode:
 1. Start the redis instance:
 
 ```bash
-docker run -p 6379:6379 redis:5.0
+docker run -p 6379:6379 redis:6.0
 ```
 
 2. Starting the application:
